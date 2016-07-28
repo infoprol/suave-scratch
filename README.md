@@ -4,8 +4,12 @@ minimally functional (in terms of doing stuff), but purely functional in the sen
 written in F#, leveraging [Suave.IO](https://suave.io/routing.html), compiled and run on .NET Core 1.0.0-preview2-003121 on Mac OSX 10.11.4 (El Capitan).
 
 # INSTALL
-from the base project directory, 
+from the base project directory,
+
+
 ```$dotnet restore```
+
+
 ```$dotnet run```
 
 
